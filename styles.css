@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f8f1e7;
+    color: #3b2a1a;
+}
+
+header {
+    background-color: #5c3317;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+.publicidad {
+    text-align: center;
+    padding: 50px 20px;
+    background-color: #e6c79c;
+}
+
+.publicidad h2 {
+    font-size: 32px;
+}
+
+.publicidad button {
+    background-color: #5c3317;
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.productos {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 40px;
+}
+
+.productos div {
+    background-color: white;
+    width: 220px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+footer {
+    background-color: #3b2a1a;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
